@@ -21,3 +21,6 @@ I guess download Intellj if you don't have it, create a new Maven project and co
 Then change the url, user, and password
 
 Run the main to test
+
+Video Link
+https://youtu.be/igdnpLhzxno
